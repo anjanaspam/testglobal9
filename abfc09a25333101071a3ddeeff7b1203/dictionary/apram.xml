@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Apram" max_length="40" name="apram" type="collection">
+        <element label="Pesitu" max_length="40" name="pesitu" type="integer"/>
+    </element>
+</database>
